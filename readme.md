@@ -139,5 +139,9 @@ plt.legend()
 plt.show()
 ```
 
+### Hasil
+![image info](./output/aktual_vs_prediksi.png)
+![image info](./output/predicted_in_feature_years.png)
+
 ### Kesimpulan
 Dalam contoh ini, kita telah membangun model Gradient Boosting untuk memprediksi permintaan programmer berdasarkan berbagai fitur. Kami juga memprediksi permintaan di masa depan dengan asumsi peningkatan tahunan pada beberapa fitur. Asumsi-asumsi ini harus disesuaikan berdasarkan data nyata atau analisis yang lebih mendalam.
